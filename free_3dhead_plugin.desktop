@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=free_3dhead_plugin
+X-Python-2-Compatible=false
+Name=Free 3D Head Reference
+Comment=Visor de referencia 3D con rotación 360 grados y control matricial
